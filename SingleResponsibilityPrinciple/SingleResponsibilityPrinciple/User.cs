@@ -10,6 +10,7 @@ namespace SingleResponsibilityPrinciple
     /// <summary>
     /// Problem in this case a class is dealing with multiple function
     /// This creates a Performance and maintainability issue
+    /// To overcome from this issue we use SRP(single responsibility principle).
     /// </summary>
     public class User
     {
